@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Херня"
+author: unostar
+date:   2017-09-06
+category: Херня
+keywords: херня и бред
+---
+
+Lorem ipsum dolor sit amet

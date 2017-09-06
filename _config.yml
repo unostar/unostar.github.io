@@ -13,8 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
 title: L'Ami du peuple
-email: jcoenep@hotmail.com
+email: unostar@danalan.info
 description: >
   Journal politique impartial, <br>
   Par Mr. P. Marat auteur de l'Offrande a la patrie, <br>
@@ -25,11 +26,11 @@ date: true
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://danalan.info" # the base hostname & protocol for your site, e.g. http://example.com
 author: Jean-Paul Marat
-google_analytics: 
+google_analytics: UA-106004697-1
 
 # SEO
 twitter:
-  username: 
+  username: unostar
 
 logo: /assets/logo.png
 
@@ -39,12 +40,11 @@ facebook:
  app_id: 
 
 social:
-  name: John Coene
+  name: unostar
   links:
-    - https://twitter.com/jdatap
-    - https://www.linkedin.com/in/johncoene
-    - https://plus.google.com/109009224717674019651
-    - https://github.com/JohnCoene
+    - https://twitter.com/unostar
+    - https://www.linkedin.com/in/unostar
+    - https://github.com/unostar
 
 # Build settings
 exclude: README.md
